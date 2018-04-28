@@ -465,6 +465,9 @@ onStartCommand里面启用了线程，那么就算服务销毁了，线程依然
 ```
 
 这时候系统会弹出一个重新打开应用的对话框，点击“重新打开应用”，那么服务所在的进程会自动重建，等待一定时间后服务也会自动重建并继续传递上面没有完成的intent进来：
+
+![重新打开应用](https://raw.githubusercontent.com/shiwen500/blogs/master/images/Sevices1.png =100)
+
 ```java
 04-20 16:44:01.741 810-2105/? I/ActivityManager: Killing 1710:com.seven.www.testserviceserver:MyService/u0a110 (adj 0): crash
 04-20 16:44:01.742 810-2105/? W/ActivityManager: Scheduling restart of crashed service com.seven.www.testserviceserver/.MyService in 9986ms
