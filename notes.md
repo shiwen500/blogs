@@ -31,3 +31,5 @@ JAVA ASM:
 ##### Android 开发
 
 Fragment框架：[https://github.com/YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)
+
+发布仓库demo: [https://github.com/bintray/bintray-examples](https://github.com/bintray/bintray-examples)
