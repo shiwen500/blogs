@@ -20,6 +20,8 @@ classLoader学习：
 
 [以太坊](https://www.94eth.com/)
 
+[比特币、以太坊公私钥生成以及签名](https://github.com/QuincySx/BlockchainWallet-Crypto)
+
 JAVA ASM:
 
 [http://pwn4.fun/2017/02/07/JAVA-ASM%E5%AD%97%E8%8A%82%E7%A0%81%E6%A1%86%E6%9E%B6/]
@@ -30,8 +32,14 @@ JAVA ASM:
 
 ##### Android 开发
 
+Android 工具集：[https://github.com/haoma2012/AndroidUtils](https://github.com/haoma2012/AndroidUtils)
+
+[https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
 Fragment框架：[https://github.com/YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)
 
 发布仓库demo: [https://github.com/bintray/bintray-examples](https://github.com/bintray/bintray-examples)
 
 Android As a Server: [https://www.yanzhenjie.com/AndServer/](https://www.yanzhenjie.com/AndServer/)
+
+二维码集成框架：[https://github.com/yipianfengye/android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)
