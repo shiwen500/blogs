@@ -20,6 +20,8 @@ classLoader学习：
 
 [以太坊](https://www.94eth.com/)
 
+[精通比特币](http://book.8btc.com/masterbitcoin2cn)
+
 [比特币、以太坊公私钥生成以及签名](https://github.com/QuincySx/BlockchainWallet-Crypto)
 
 JAVA ASM:
